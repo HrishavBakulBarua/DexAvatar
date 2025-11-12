@@ -16,7 +16,7 @@ Project Members -
 
 
 <p align="center">
-    <img width="800" src="assets/result.gif" alt="Material Bread logo">
+    <img width="900" src="assets/result.gif" alt="Material Bread logo">
     <br>
 </p>
 
