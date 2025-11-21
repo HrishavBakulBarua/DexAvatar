@@ -12,7 +12,13 @@ Project Members -
 [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(Monash University, Australia and TCS Research, Kolkata, India)](https://www.tcs.com/what-we-do/research),                                                                                                                   
 [Lucy Robertson-Bell](https://research.monash.edu/en/persons/lucy-marde-robertson-bell/) [(Monash University, Melbourne, Australia)](https://www.monash.edu/),                                                                                                                                           
 [Zhixi Cai](https://scholar.google.com/citations?user=-rpiDIoAAAAJ&hl=zh-CN) [(Monash University, Melbourne, Australia)](https://www.monash.edu/), and                                                                                                                                                   
-[Kalin Stefanov](https://research.monash.edu/en/persons/kalin-stefanov) [(Monash University, Melbourne, Australia)](https://www.monash.edu/)                                                                                                                                                                                 
+[Kalin Stefanov](https://research.monash.edu/en/persons/kalin-stefanov) [(Monash University, Melbourne, Australia)](https://www.monash.edu/)    
+
+
+### <ins>Funding details<ins>
+
+This work is supported by the prestigious [Discovery Early Career Researcher Award (DECRA)
+](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) fellowship by [Australian Research Council (ARC)](https://www.arc.gov.au/) **DE230100049 Project: "Towards automated Australian Sign Language translation"**.
 
 
 <p align="center">
