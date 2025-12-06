@@ -20,6 +20,35 @@ Project Members -
 This work is supported by the prestigious [`Discovery Early Career Researcher Award (DECRA)`
 ](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) fellowship by [`Australian Research Council (ARC)`](https://www.arc.gov.au/) `[Grant no. DE230100049 | Project: Towards automated Australian Sign Language translation]`.
 
+
+## Overview
+
+
+![My Image](assets/DexAvatar.png)
+
+
+The trend in sign language generation is centered around
+data-driven generative methods. These methods require
+vast amounts of precise 2D and 3D human pose data to
+achieve a generation quality acceptable to the Deaf com-
+munity. However, currently, most sign language datasets
+are video-based and limited to automatically reconstructed
+2D human poses (i.e., keypoints) and lack accurate 3D in-
+formation. However, manual production of accurate 2D
+and 3D human pose information from videos is a labor-
+intensive process. Furthermore, existing state-of-the-art for
+automatic 3D human pose estimation from sign language
+videos is prone to self-occlusion, noise, and motion blur ef-
+fects, resulting in poor reconstruction quality. In response
+to this, we introduce DexAvatar, a novel framework to re-
+construct bio-mechanically accurate fine-grained hand ar-
+ticulations and body movements from in-the-wild monocu-
+lar sign language videos, guided by learned 3D hand and
+body priors. DexAvatar achieves strong performance in the
+SGNify motion capture dataset, the only benchmark avail-
+able for this task, reaching an improvement of 35.11% in the estimation of body and hand poses compared to the state-
+of-the-art.
+
 <p align="center">
     <img width="900" src="assets/result.gif" alt="Material Bread logo">
     <br>
