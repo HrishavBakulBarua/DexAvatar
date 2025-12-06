@@ -23,10 +23,6 @@ This work is supported by the prestigious [`Discovery Early Career Researcher Aw
 
 ## Overview
 
-
-![My Image](assets/DexAvatar.png)
-
-
 The trend in sign language generation is centered around
 data-driven generative methods. These methods require
 vast amounts of precise 2D and 3D human pose data to
@@ -48,6 +44,8 @@ body priors. DexAvatar achieves strong performance in the
 SGNify motion capture dataset, the only benchmark avail-
 able for this task, reaching an improvement of 35.11% in the estimation of body and hand poses compared to the state-
 of-the-art.
+
+![My Image](assets/DexAvatar.png)
 
 <p align="center">
     <img width="900" src="assets/result.gif" alt="Material Bread logo">
