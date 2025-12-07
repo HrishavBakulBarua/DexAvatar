@@ -18,7 +18,7 @@ Project Members -
 ### <ins>Funding details<ins>
 
 This work is supported by the prestigious [`Discovery Early Career Researcher Award (DECRA)`
-](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) fellowship by [`Australian Research Council (ARC)`](https://www.arc.gov.au/) `[Grant no. DE230100049 | Project: Towards automated Australian Sign Language translation]`. We also acknowledge Monash University and
+](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) fellowship by [`Australian Research Council (ARC)`](https://www.arc.gov.au/) `[Grant no. DE230100049 | Project: Towards automated Australian Sign Language translation]`. We also acknowledge Monash University (M3 Cluster) and
 National Computational Infrastructure (NCI) for providing High Performance Computing (HPC) to carry out experiments.
 
 
