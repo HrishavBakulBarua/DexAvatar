@@ -55,13 +55,20 @@ of-the-art.
 
 ### Qualitative Results
 
-<p align="center">
-    <img width="900" src="assets/result.gif" alt="Material Bread logo">
-    <br>
-</p>
-
-
 
 
 https://github.com/user-attachments/assets/923c3181-ecbc-47e0-88bb-d355f7280390
+
+
+#### Motion blur cases
+
+https://github.com/user-attachments/assets/08c6b2c0-4d59-4d86-afbc-8dd045cf41b5
+
+### Self-occlusion cases
+
+https://github.com/user-attachments/assets/7b2cd130-b4ad-4215-a04e-d5ec99d2637a
+
+### Gaussian Noise cases
+
+https://github.com/user-attachments/assets/b327500a-c972-4cfc-a02d-4d18e1632b92
 
