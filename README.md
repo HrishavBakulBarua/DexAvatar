@@ -49,7 +49,11 @@ SGNify motion capture dataset, the only benchmark avail-
 able for this task, reaching an improvement of 35.11% in the estimation of body and hand poses compared to the state-
 of-the-art.
 
+### Overall Architecture
+
 ![My Image](assets/DexAvatar.png)
+
+### Qualitative Results
 
 <p align="center">
     <img width="900" src="assets/result.gif" alt="Material Bread logo">
