@@ -1,4 +1,4 @@
-We will release the pretrained models soon!!
+# We will release the pretrained models soon!!
 
 
 # DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors [WACV 2026]
