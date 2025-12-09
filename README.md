@@ -64,11 +64,11 @@ https://github.com/user-attachments/assets/923c3181-ecbc-47e0-88bb-d355f7280390
 
 https://github.com/user-attachments/assets/08c6b2c0-4d59-4d86-afbc-8dd045cf41b5
 
-### Self-occlusion cases
+#### Self-occlusion cases
 
 https://github.com/user-attachments/assets/7b2cd130-b4ad-4215-a04e-d5ec99d2637a
 
-### Gaussian noise cases
+#### Gaussian noise cases
 
 https://github.com/user-attachments/assets/b327500a-c972-4cfc-a02d-4d18e1632b92
 
