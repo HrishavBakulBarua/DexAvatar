@@ -5,6 +5,8 @@
 
 ![My Image](assets/teaser.png)
 
+The official repository of the paper with supplementary: [![DexAvatar](https://img.shields.io/badge/GTA-HDR-b31b1b.svg)](https://arxiv.org/abs/2512.21054) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HrishavBakulBarua.GTA-HDR)
+
 ## About the project
 
 This project is carried out at the [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
