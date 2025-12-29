@@ -74,3 +74,28 @@ https://github.com/user-attachments/assets/7b2cd130-b4ad-4215-a04e-d5ec99d2637a
 
 https://github.com/user-attachments/assets/b327500a-c972-4cfc-a02d-4d18e1632b92
 
+##  Citation 
+
+If you find our work (i.e., the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
+
+~~~
+@article{kundu2025dexavatar,
+  title={DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors},
+  author={Kundu, Kaustubh and Barua, Hrishav Bakul and Robertson-Bell, Lucy and Cai, Zhixi and Stefanov, Kalin},
+  journal={arXiv preprint arXiv:2512.21054},
+  year={2025}
+}
+~~~
+
+## License and Copyright
+
+
+~~~
+----------------------------------------------------------------------------------------
+Copyright 2024 | All the authors and contributors of this repository as mentioned above.
+----------------------------------------------------------------------------------------
+
+~~~
+
+Please check the [License](LICENSE) Agreement.
+
