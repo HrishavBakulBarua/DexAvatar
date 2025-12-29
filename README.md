@@ -5,7 +5,7 @@
 
 ![My Image](assets/teaser.png)
 
-The official repository of the paper with supplementary: [![DexAvatar](https://img.shields.io/badge/GTA-HDR-b31b1b.svg)](https://arxiv.org/abs/2512.21054) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HrishavBakulBarua.GTA-HDR)
+The official repository of the paper with supplementary: [![DexAvatar](https://img.shields.io/badge/DexAvatar-b31b1b.svg)](https://arxiv.org/abs/2512.21054) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HrishavBakulBarua.DexAvatar)
 
 ## About the project
 
